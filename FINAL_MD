@@ -1,4 +1,4 @@
-ID.Cliente;Genero;Mayor65años;Socio;Dependientes;MultipleLineas;Internet;SeguridadOnline;Backup;ProteccionDispositivo;No.servicio.Internet;TVPago;PeliculasStreaming;TerminoContrato;FactElectronica;MetodoPago;CargoMensual;ImporteTotal;pemanencia;PhoneService;Churn
+ID.Cliente;Genero;Mayor65años;Socio;Dependientes;MultipleLineas;Internet;SeguridadOnline;Backup;ProteccionDispositivo;No.servicio.Internet;TVPago;PeliculasStreaming;TerminoContrato;FactElectronica;MetodoPago;CargoMensual;ImporteTotal;pemanencia;FonoServicio;Churn
 7590-VHVEG;Femenino;0;Si;No;No servicio tel;DSL;No;Si;No;No;No;No;Mes a mes;Si;Cheque electronico;29.85;29.85;1;No;No
 5575-GNVDE;Masculino;0;No;No;No;DSL;Si;No;Si;No;No;No;Un año;No;Cheque fisico;NA;1889.5;34;Si;No
 3668-QPYBK;Masculino;0;No;No;No;DSL;Si;Si;No;No;No;No;Mes a mes;Si;Cheque fisico;53.85;108.15;2;Si;Si
